@@ -11,5 +11,7 @@ We have compiled some common reasons and troubleshooting tips at:
     https://numpy.org/devdocs/user/troubleshooting-importerror.html
   "
 
+I tried the static website builder, which to my surprise actually worked and I was able to get the website up and running, definitely a success, I didn't run into any errors with this.
+
 
   
